@@ -1,5 +1,9 @@
 # Witty Pi 4 Telemetry Support Programs
 
+## **NOTICE: REPOSITORIES INTEGRATED INTO SINGLE REPOSITORY**
+
+This repository along with other related repositories have been integrated into [**Vehicle Telemetry System**, a system for collecting and processing motor vehicle data using included sensor modules.](https://github.com/thatlarrypearson/vehicle-telemetry-system).
+
 UUGear's [Witty Pi 4 Realtime Clock and Power Management HAT](https://www.uugear.com/product/witty-pi-4/) for Raspberry Pi 4B is provided with configuration software to
 
 * synchronize Real Time Clock (RTC) with Network Time
